@@ -10,6 +10,7 @@ Kit de herramientas para el equipo FRC de MercadoLibre. Agrupa cuatro skills de 
 | `doc-generator` | Redacta specs, propuestas, reportes y memos listos para compartir | "crear un doc sobre...", "escribir una spec de...", "armar un reporte..." |
 | `task-automator` | Envía mensajes por Slack y emails por Gmail con confirmación previa | "mandar mensaje a Slack...", "enviar email a...", "notificar al equipo..." |
 | `code-reviewer` | Revisa código buscando bugs, problemas de seguridad y oportunidades de mejora | "revisar este código", "code review de...", "hay algún bug acá..." |
+| `evaluia` | Revisa las iniciativas y las compara contra frameworks de IA | "revisar esta iniciativa"|
 
 ## Integraciones requeridas
 
