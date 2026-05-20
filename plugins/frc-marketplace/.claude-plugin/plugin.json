@@ -1,0 +1,10 @@
+{
+  "name": "frc-marketplace",
+  "version": "0.1.0",
+  "description": "Kit de herramientas para el equipo FRC: análisis de datos, generación de documentos, automatización de tareas y revisión de código.",
+  "author": {
+    "name": "FRC Team",
+    "email": "maria.formoso@mercadolibre.com"
+  },
+  "keywords": ["frc", "analytics", "bigquery", "slack", "drive", "gmail", "meli"]
+}

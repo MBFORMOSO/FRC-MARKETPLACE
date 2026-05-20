@@ -1,0 +1,26 @@
+{
+  "name": "frc-marketplace",
+  "description": "Marketplace de herramientas para el equipo FRC de MercadoLibre.",
+  "owner": {
+    "name": "FRC Team",
+    "email": "maria.formoso@mercadolibre.com"
+  },
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "frc-marketplace",
+      "source": "./plugins/frc-marketplace",
+      "displayName": "FRC Toolkit",
+      "description": "Kit completo del equipo FRC: análisis de datos con BigQuery, generación de documentos, automatización de Slack/Gmail y revisión de código.",
+      "version": "0.1.0",
+      "author": {
+        "name": "FRC Team",
+        "email": "maria.formoso@mercadolibre.com"
+      },
+      "category": "productivity",
+      "tags": ["frc", "analytics", "bigquery", "slack", "drive", "gmail", "meli"]
+    }
+  ]
+}
